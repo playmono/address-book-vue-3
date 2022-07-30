@@ -1,6 +1,6 @@
 # Address Book 
 
-I made this app in the subject "Programacion Web avanzada" as part of the bachelor degree "Ingenieria informática" at [UOC](https://www.uoc.edu/portal/en/index.html)
+I made this app in the subject "Programacion Web avanzada" as part of the bachelor degree "Ingenieria Informática" at [UOC](https://www.uoc.edu/portal/en/index.html)
 
 ### Description
 
